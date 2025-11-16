@@ -1,3 +1,7 @@
+<img src="https://github.com/richknowles/EdgeDelayAU/blob/d5c68667260540abad1c29e97eb0722aab210042/Banner/EdgeAUPlugin_5.png"
+     alt="EdgeAUPlugin Banner"
+     style="float: left; margin-right: 10px;" />
+
 # The Edge Delay - AUv3 Audio Plugin
 
 A professional-quality Audio Unit v3 plugin inspired by The Edge's (U2) iconic guitar sound. This plugin combines delay, reverb, and shimmer effects to recreate those atmospheric, ambient guitar tones.
